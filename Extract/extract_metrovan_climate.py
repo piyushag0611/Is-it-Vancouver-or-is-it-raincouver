@@ -1,6 +1,7 @@
 import requests
 import json
 
+
 def get_weather():
 
     base_url = 'https://api.weather.gc.ca/collections/climate-hourly/items'
